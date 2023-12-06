@@ -35,12 +35,15 @@ This is a simple command-line to-do list application written in C++ that allows 
 - `todo.cpp``: Contains the source code for the to-do list application.
 - `tasks.txt``: File where tasks are stored.
 
-### Usage Notes
+### Usage Notes  
+
 The application allows users to add tasks, display tasks, and remove tasks from the list.
 Tasks are saved to the tasks.txt file and loaded from it when the program starts.
 
 ### Contributing
+
 Contributions are welcome! Feel free to open issues or submit pull requests to contribute to this project.
 
 ### License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
